@@ -148,11 +148,11 @@ logging.basicConfig(level=logging.WARNING)
 channel = "AbhiModszYT_Return"
 menu = '''
 ┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @TG_FRIENDSS
-┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @VIP_CREATORS
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @INCRICIBLE
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @INCRICIBLE_NETWORK
 ┗━━━━━━━━━❥
-**Updates JOIN @VIP_CREATORS**
+**Updates JOIN @INCRICIBLE**
 `ᴍᴀᴀ ᴄʜᴏᴅᴇɢᴀ ʏᴇ ʙᴏᴛ`
 
 
@@ -184,22 +184,22 @@ Send M: [Change Phone number using StringSession]
 
 I ADD MORE FEATURES LATER 
 ┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ About   -> @VIP_CREATORS
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ About   -> @VIP_CREATORS
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ About   -> @VIP_CREATORS
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ About   -> @VIP_CREATORS
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ About   -> @INCRICIBLE
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ About   -> @INCRICIBLE
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ About   -> @INCRICIBLE
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ About   -> @INCRICIBLE
 ┗━━━━━━━━━❥
 
 '''
 mm = '''
 ┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ Uᴘᴅᴀᴛᴇꜱ -> @VIP_CREATORS
-┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @TG_FRIENDSS
+┣ Cʀᴇᴀᴛᴇʀ -> @YOUR_GODFATHER_XD
+┣ Uᴘᴅᴀᴛᴇꜱ -> @INCRICIBLE
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @INCRICIBLE_NETWORK
 ┗━━━━━━━━━❥
 i can hack anybody
 Take his StringSession and use me
